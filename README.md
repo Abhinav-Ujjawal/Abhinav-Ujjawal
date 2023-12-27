@@ -11,22 +11,19 @@
     <!--add discord or something-->
   </p>
 </div>
+<!-- <div> -->
+<!--   <h2>About me</h2>   -->
 
 ### About me
-- 🏫 I'm currently an undergraduate at IIITD.
-- 🌱 Learning DSA and ML.
-- 🔭 I’m currently working as Project Lead in a Space Debris mitigation project at <a href="https://cyfuse.iiitd.edu.in/">Cyfuse</a>.
-- ❓ Want to ask me something? Ask me indirectly by creating a contribution in one of my projects I guess.
+- 🏫 I'm a CSE undergraduate at IIITD.<br>
+- 🌱 I have an interest in learning DSA and ML. <br>
+- 🔭 I’m currently working as Project Lead in a Space Debris mitigation project at <a href="https://cyfuse.iiitd.edu.in/">Cyfuse</a>.<br>
+- 📫 How to reach me: Connect to me through <a href="https://www.linkedin.com/in/abhinav-ujjawal-99a042259/">LinkedIn</a>.<br>
+<!-- </div> -->
 <!--
-**Abhinav-Ujjawal/Abhinav-Ujjawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
+- ❓ Want to ask me something? Connect to me through <div><a href="https://www.linkedin.com/in/abhinav-ujjawal-99a042259/">LinkedIn</a></div>.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
 -->
