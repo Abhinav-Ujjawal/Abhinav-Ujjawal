@@ -16,7 +16,6 @@
 - 🏫 I'm currently an undergraduate at IIITD.
 - 🌱 Learning DSA and ML.
 - 🔭 I’m currently working on a Space Debris mitigation project in <a href="https://cyfuse.iiitd.edu.in/">Cyfuse</a>.
-- ⚡ Fun fact: This profile page isn't complete, and you are basically wasting your time reading it right now.
 - ❓ Want to ask me something? Ask me indirectly by creating a contribution in one of my projects I guess.
 <!--
 **Abhinav-Ujjawal/Abhinav-Ujjawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
