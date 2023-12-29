@@ -17,7 +17,8 @@
 ### About me
 - 🏫 I'm a CSE undergraduate at IIITD.<br>
 - 🌱 I have an interest in learning DSA and ML. <br>
-- 🔭 I’m currently working as Project Lead in a Space Debris mitigation project at <a href="https://cyfuse.iiitd.edu.in/">Cyfuse</a>.<br>
+- 🔭 I’m working as Project Lead in a Space Debris mitigation project at <a href="https://cyfuse.iiitd.edu.in/">Cyfuse</a>.<br>
+- 🏨 I’m a member of the Hostel Committee.<br>
 - 📫 How to reach me: Connect to me through <a href="https://www.linkedin.com/in/abhinav-ujjawal-99a042259/">LinkedIn</a>.<br>
 <!-- </div> -->
 <!--
