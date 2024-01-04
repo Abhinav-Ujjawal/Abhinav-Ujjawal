@@ -1,7 +1,6 @@
-![image](https://github.com/Abhinav-Ujjawal/Abhinav-Ujjawal/assets/97021908/ccc125a0-510d-4309-a3b8-c90f119db9f5)<div align='center'>
-  <p>
+<p>
   <h1>Hi there, I'm Abhinav 👋</h1>
-  </p>
+</p>
 </div>
 
 <div align='center'>
