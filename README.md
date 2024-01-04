@@ -1,4 +1,4 @@
-<div align='center'>
+![image](https://github.com/Abhinav-Ujjawal/Abhinav-Ujjawal/assets/97021908/ccc125a0-510d-4309-a3b8-c90f119db9f5)<div align='center'>
   <p>
   <h1>Hi there, I'm Abhinav 👋</h1>
   </p>
@@ -11,7 +11,6 @@
     <!--add discord or something-->
   </p>
 </div>
-<!-- <div> -->
 <!--   <h2>About me</h2>   -->
 
 ### About me
@@ -19,7 +18,10 @@
 - 🌱 I have an interest in learning DSA and ML. <br>
 - 🔭 I’m working as Project Lead in a Space Debris mitigation project at <a href="https://cyfuse.iiitd.edu.in/">Cyfuse</a>.<br>
 - 📫 How to reach me: Connect to me through <a href="https://www.linkedin.com/in/abhinav-ujjawal-99a042259/">LinkedIn</a>.<br>
-<!-- </div> -->
+<!-- ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=Abhinav-Ujjawal) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Ujjawal)](https://github.com/Abhinav-Ujjawal/github-readme-stats)
+
+
 <!--
 - ❓ Want to ask me something? Connect to me through <div><a href="https://www.linkedin.com/in/abhinav-ujjawal-99a042259/">LinkedIn</a></div>.
 - 👯 I’m looking to collaborate on ...
